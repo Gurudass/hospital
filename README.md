@@ -1,14 +1,29 @@
-<h1 align="center">🏥 HealthCare Management Portal</h1>
-<p align="center"><b>Full-Stack Hospital & Patient Operations Platform</b></p>
+# Healthcare Operations Portal
 
-## Overview
-An enterprise healthcare operations portal designed to streamline outpatient appointments, medical record management, doctor schedules, and billing workflows.
+**Role-Based Clinical Management and Outpatient Scheduling Platform**
 
-## Features
-- **Role-Based Access Control (RBAC):** Distinct dashboards for Patients, Doctors, Receptionists, and Administrators.
-- **Appointment Scheduling:** Real-time doctor availability calendar and automated reminder dispatch.
-- **Patient Records & History:** Secure digital health records, diagnosis tracking, and prescription management.
+---
 
-## Tech Stack
-- Frontend: React.js, Tailwind CSS / Bootstrap
-- Backend: Python / Node.js, REST APIs, SQL (MySQL / PostgreSQL)
+### Overview
+An enterprise healthcare operations portal designed to streamline outpatient appointments, medical record management, doctor schedules, and clinical administration.
+
+---
+
+### Key Capabilities
+
+* **Role-Based Access Control (RBAC):** Dedicated views and permissions for Patients, Doctors, and Clinic Staff.
+* **Appointment Scheduling:** Real-time doctor availability calendars and notification scheduling.
+* **Electronic Health Records:** Structured record management with diagnosis history and prescription tracking.
+
+---
+
+### Technical Stack
+* **Frontend:** React.js, Tailwind CSS
+* **Backend:** Python / Node.js, REST APIs, SQL (MySQL / PostgreSQL)
+
+---
+
+### Author
+**Guru Das**  
+Senior Full-Stack & Generative AI Engineer  
+[GitHub Profile](https://github.com/Gurudass)
